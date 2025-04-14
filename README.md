@@ -2,6 +2,8 @@
 
 A project that demonstrates the application of graph-based approaches to model patient similarity using electronic health records (EHR) data.
 
+![image](https://github.com/user-attachments/assets/3a4ca308-d19f-4656-bbf8-3cc5858f987e)
+
 ## Project Overview
 
 This project builds a patient similarity model using graph theory to connect patients based on their clinical and demographic similarities. The model can be used to:
